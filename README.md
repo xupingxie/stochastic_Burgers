@@ -5,7 +5,7 @@ Also, the reduced-order model code is included.
 
 
 ## Citation
-please cite the following reference for use: 
+please cite the following references for use: 
 
     @article{iliescu2017regularized,
       title={Regularized reduced order models for a stochastic Burgers equation},
